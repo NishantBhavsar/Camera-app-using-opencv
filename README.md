@@ -5,7 +5,7 @@ UI is not added.
 Every operation works according to key press.
 And it also stores captured files to directoy where program is present
 
-### Instructions:
+### <i>Instructions</i>:
 <ul>
 <li>only live feed showing</li>  
 <li>To capture Image press 'c' </li>
