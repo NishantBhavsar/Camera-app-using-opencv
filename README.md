@@ -17,7 +17,7 @@ And it also stores captured files to directoy where program is present
 <li>To stop recording and exit program press 'q'</li>
 </ul>
 
-###<i>Dependencies<i>:
+### <i>Dependencies<i>:
 <ul>
 <li>python 3</li>
 <li>opencv for python 3 </li>
